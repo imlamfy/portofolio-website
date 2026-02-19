@@ -7,7 +7,7 @@
         },
         {
             "source" : "/project/:id",
-            "destination" : "/project-post.html?id=:id"
+            "destination" : "/project.html?id=:id"
         }
     ]
 }
