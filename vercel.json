@@ -1,0 +1,13 @@
+{
+    "cleanUrls": true,
+    "rewrites": [
+        {
+            "source" : "/blog/:id",
+            "destination" : "/blog-post.html?id=:id"
+        },
+        {
+            "source" : "/project/:id",
+            "destination" : "/project-post.html?id=:id"
+        }
+    ]
+}
