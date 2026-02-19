@@ -118,6 +118,31 @@ document.addEventListener('DOMContentLoaded', () => {
                     </ol>
                 `
             },
+
+            'openclaw': {
+                title: 'Setup your AI Agent using Openclaw',
+                date: 'Feb 18, 2026',
+                content: `
+                    <p>How to setup your AI Agent using Openclaw</p>
+                    <h2>Understanding AI Agent</h2>
+                    <p>An AI Agent is a software entity that can perform tasks autonomously or semi-autonomously. It uses artificial intelligence techniques to understand its environment, make decisions, 
+                    and take actions to achieve specific goals.</p>
+                    <p>When we talk about AI Agents, we often think about their capabilities, such as natural language processing, machine learning, and computer vision. 
+                    These capabilities enable AI Agents to interact with users and their environment in meaningful ways.</p>
+                    <h2>What is Openclaw?</h2>
+                    <p>Openclaw is a fully free-to-use (Open Source) framework for building AI Agents in many chat platforms.</p>
+                    <p>With Openclaw, you can create AI Agents that can interact with users in various chat platforms, such as Slack, Discord, and Microsoft Teams.</p>
+                    <h2>Real case study</h2>
+                    <p>Let's consider a real-world example where a poorly designed UI led to a frustrating user experience.</p>
+                    <h2>A. Case Study: BROS Mobile Application</h2>
+                    <p>In this case,</p>
+                    <ol>
+                        <li><strong>Problem:</strong> Users couldn't find the main action button.</li>
+                        <li><strong>Solution:</strong> Redesign the layout to make the button more prominent.</li>
+                    </ol>
+                `
+            },
+
             'ui-ux-kill': {
                 title: 'Why UI can also kill UX in an applications?',
                 date: 'Oct 20, 2025',
